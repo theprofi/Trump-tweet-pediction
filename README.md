@@ -29,7 +29,7 @@ Second dataset:<br>
 Contains: 7318 tweets in the time range of June 2014 – June 2015.<br>
 <h4>How I predicted?</h4>
 I used two methods to convert the raw data (tweet text) to vectors:<br>
-1. Every tweet is converted to bag of words (I call it BOW).
+1. Every tweet is converted to bag of words (I call it BOW).<br>
 2. Every tweet is converted to a vector of 27 cells. Every cell corresponds to the number of times each english letter or a space chararcter was in the tweet (I call it Letter vector).<br>
 
 <br><br>
