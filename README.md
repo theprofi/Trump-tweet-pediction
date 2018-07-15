@@ -3,15 +3,15 @@
 
 <h3>How to use</h3>
 Place all the files and folders in this repo in the same directory.<br>
-Run the main.py file to train the models and save them. <br>
-    Follow the requirements to setup to run the code.<br>
-    After all the requirements are met and you ran the file, you can see the console output on the test dataset.<br>
-	Your output will be different from the one I provided below <br>
-	because each run the train and test tweets are chosen randomly.
-The models will be saved in "saved_session" folder and will be used for the following:<br>
+Run the main.py file to train the models and save them locally. <br>
+You can see the console output on the test dataset.<br>
+Your output will be different from the one I provided below <br>
+because each run the train and test tweets are chosen randomly.
+<br><br>
+By default, the models will be saved in "saved_session" folder and can be further used to predict tweets that you provide:<br>
 Put the tweets you want to predict their time (before of after Trump's announcement for running for presidency) in the file "my_tweets.txt".<br>
-Each tweet in a line.<br>
-Run the file "predict_custom_tweets.py" and see the results for each tweet in a formatted table.<br>
+Each tweet in a line.<br><br>
+Run the file "predict_custom_tweets.py" and see the results for each tweet in a formatted table.<br><br>
 To ensure the tweets you want to predict on aren't some of the tweets the models trained on, <br>
 don't predict on tweets in time ranges: 01 Jan 2013 - 20 Nov 2013, 05 May 2015 - 01 Jan 2017, 14 Jan 2014 - 06 Jan 2015.
 
