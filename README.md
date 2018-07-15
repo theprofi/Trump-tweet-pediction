@@ -4,8 +4,7 @@
 <h3>How to use</h3>
 Place all the files and folders in this repo in the same directory.<br>
 Run the main.py file to train the models and save them locally. <br>
-You can see the console output on the test dataset.<br>
-Your output will be different from the one I provided below <br>
+You can see the console output on the test dataset. Your output will be different from the one I provided below
 because each run the train and test tweets are chosen randomly.
 <br><br>
 By default, the models will be saved in "saved_session" folder and can be further used to predict tweets that you provide:<br>
