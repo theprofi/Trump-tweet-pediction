@@ -1,5 +1,5 @@
 <h1>Prediction of the time of Donald Trump's tweets</h1>
-<h2>Given a decide if it has been posted before or after Trump's announcement for running for presidency</h3>
+<h2>Given Donald Trump's tweet decide if it has been posted before or after Trump's announcement for running for presidency</h3>
 
 <h3>How to use</h3>
 Place all the files and folders in this repo in the same directory.<br>
