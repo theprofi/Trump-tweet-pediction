@@ -12,7 +12,7 @@ Put the tweets you want to predict their time (before of after Trump's announcem
 Each tweet in a line.<br><br>
 Run the file "predict_custom_tweets.py" and see the results for each tweet in a formatted table.<br><br>
 To ensure the tweets you want to predict on aren't some of the tweets the models trained on, <br>
-don't predict on tweets in time ranges: 01 Jan 2013 - 20 Nov 2013, 05 May 2015 - 01 Jan 2017, 14 Jan 2014 - 06 Jan 2015.
+don't predict on tweets in time ranges: 01 Jan 2013 - 20 Nov 2013, 05 May 2015 - 01 Jan 2017.
 
 
 <h3>About</h3>
